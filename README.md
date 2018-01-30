@@ -12,6 +12,8 @@ This app, intended as a prototype and NOT meant to actually function as a diagno
  
  To use, simply open the app on your phone and point the camera at a picture of a lung x-ray.
  
+ ![What the tool looks like in use](https://github.com/priyankaincode/Lung-Xray-Diagnostic-Android/blob/master/images/IMG_1275.jpg?raw=true)
+ 
  **ANALYSIS**
  
  Because this model uses a [MobileNet](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html) with its final layer retrained to recognize the difference between a mass, a module, and nothing on an x-ray. The resulting accuracy is horrendous, actually - somewhere around 35%. You would be better off asking a random person on the street if you had cancer!!!!
