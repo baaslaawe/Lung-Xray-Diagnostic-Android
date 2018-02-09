@@ -4,7 +4,7 @@
 
 This app, intended as a prototype and NOT meant to actually function as a diagnostic tool, runs a MobileNet model that was trained on approximately 200 NIH lung x-ray images to diagnose whether a particular lung x-ray contains a mass, a nodule, or neither. The app opens to the phone's camera function, which can be pointed at the lung x-ray. The screen will show the result, as follows:
 
-<IMAGE>
+![What the tool looks like in use](https://github.com/priyankaincode/Lung-Xray-Diagnostic-Android/blob/master/images/IMG_1275.jpg?raw=true) 
   
  **INSTALLATION AND USAGE**
  
@@ -12,7 +12,6 @@ This app, intended as a prototype and NOT meant to actually function as a diagno
  
  To use, simply open the app on your phone and point the camera at a picture of a lung x-ray.
  
- ![What the tool looks like in use](https://github.com/priyankaincode/Lung-Xray-Diagnostic-Android/blob/master/images/IMG_1275.jpg?raw=true) 
  
  **ANALYSIS**
  
